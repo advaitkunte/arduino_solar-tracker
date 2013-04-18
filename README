@@ -1,1 +1,5 @@
 Solar Tracker using Arduino, 2 LDRs and a servo Motor
+
+Connection
+-Servo : http://www.azega.com/wp-content/uploads/2011/02/Arduino_Servo_1.png
+-LDR : http://bildr.org/blog/wp-content/uploads/2012/11/arduino-LDR-photoresistor1.png
